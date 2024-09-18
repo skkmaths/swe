@@ -2,6 +2,9 @@
 Solve shallow water equations
 Finite volume scheme
 """
+'''
+Author: Sudarshan Kumar K.
+'''
 from xml import dom
 import numpy as np
 import matplotlib.pyplot as plt
