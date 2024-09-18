@@ -7,4 +7,4 @@
 - Solutions are saved to the file sol.txt
 - Use the following command to produce plots in pdf
 - $python plot.py 
-## Author: Sudarshan Kumar K. ( sudarshan*iisertvm.ac.in   *=@)
+# Author: Sudarshan Kumar K. ( sudarshan*iisertvm.ac.in   *=@)
